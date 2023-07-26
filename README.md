@@ -4,7 +4,8 @@
 
 ## Folder: launcher, Contains data obtained by reversing the launcher
 
-* **api.txt - contains a api paths**
+* **api.txt - contains a api domains**
+* **api_paths.txt - contains a api paths**
 * **compatibility.txt - contains data about compatibility of launchers in different systems**
 
 ## Folder: images, Contains just pictures of our progress
