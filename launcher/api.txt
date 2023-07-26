@@ -1,0 +1,31 @@
+we found this api's:
+
+default:
+api.loliland.ru
+launcher.loliland.ru
+static.loliland.ru
+
+servers:
+server1.loliland.ru
+server2.loliland.ru
+server3.loliland.ru
+server5.loliland.ru
+
+s1.loliland.ru
+s2.loliland.ru
+
+misc:
+php.loliland.ru
+coreapi.loliland.ru
+klauncher.loliland.ru
+logs.loliland.ru
+img.loliland.ru
+
+dev section:
+devapi.loliland.ru
+devlauncher.loliland.ru
+dev.loliland.ru
+
+youtuber's section:
+ytapi.loliland.ru
+ytlauncher.loliland.ru
