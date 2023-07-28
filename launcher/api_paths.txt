@@ -1,1 +1,2 @@
 api.loliland.ru/launcher.address - list with servers
+devapi.loliland.ru/launcher.address - list with dev servers

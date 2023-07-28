@@ -1,2 +1,2 @@
-patched launcher works on linux (no native support), use portproton instead
+patched launcher works on linux (no native support), use portproton/wine instead
 and works on windows perfectly
