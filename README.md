@@ -19,3 +19,7 @@
 
 * **lolimod-deobf.jar - deobfuscated lolimod, obfuscator is: [Superblaubeere](https://github.com/superblaubeere27/obfuscator)**
 * **info.txt - information about lolimod**
+
+## Bypassed anticheat showcase:
+<img src="https://github.com/purpl3-yt/loliland-reverse/assets/80628386/d23e616a-1b19-4934-ae45-cde7fd7ccc71" width=500 />
+<img src="https://github.com/purpl3-yt/loliland-reverse/assets/80628386/a83412f6-ded2-4eba-9090-6665b1ebbb9b" width=500 />
