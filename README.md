@@ -27,3 +27,6 @@
 
 ## Our plan how bypass the launcher security
 <img src="https://raw.githubusercontent.com/purpl3-yt/loliland-reverse/main/images/mindmap.png" width=700>
+
+## Server emulation showcase
+<img src="https://github.com/purpl3-yt/loliland-reverse/assets/80628386/950806a9-a8b5-42d4-b15e-ac0ad2947fd4" width=1200>
