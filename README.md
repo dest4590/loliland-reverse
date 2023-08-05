@@ -24,3 +24,6 @@
 
 <img src="https://github.com/purpl3-yt/loliland-reverse/assets/80628386/d23e616a-1b19-4934-ae45-cde7fd7ccc71" width=600 />
 <img src="https://github.com/purpl3-yt/loliland-reverse/assets/80628386/a83412f6-ded2-4eba-9090-6665b1ebbb9b" width=600 />
+
+## Our plan how bypass the launcher security
+<img src="https://raw.githubusercontent.com/purpl3-yt/loliland-reverse/main/images/mindmap.png" width=700>
