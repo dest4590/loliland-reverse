@@ -7,6 +7,13 @@
 * **api.txt - contains a api domains**
 * **api_paths.txt - contains a api paths**
 * **compatibility.txt - contains data about compatibility of launchers in different systems**
+* **launcher_latest.jar** - our pathed launcher
+
+### Launcher features
+* **Checking for third-party files has been completely cut out**
+* **Launcher works via http protocol (allows server emulation to work)**
+* **Replaced some pictures (don't know why)**
+* **Logs of minecraft client**
 
 ## Folder: images, Contains just pictures of our progress
 
